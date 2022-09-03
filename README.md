@@ -1,9 +1,9 @@
 # LC_Journey-to-become-a-Pro
 
 ### **Stack**
-#### [Easy](https://leetcode.com/problemset/all/?topicSlugs=stack&page=1&difficulty=EASY&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D)
+### [Easy](https://leetcode.com/problemset/all/?topicSlugs=stack&page=1&difficulty=EASY&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D)
 
-#### [Medium](https://leetcode.com/problemset/all/?topicSlugs=stack&page=1&difficulty=MEDIUM&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D)
+### [Medium](https://leetcode.com/problemset/all/?topicSlugs=stack&page=1&difficulty=MEDIUM&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D)
 
 [1762. Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/)
 
