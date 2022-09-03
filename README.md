@@ -11,5 +11,8 @@
 
 [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 
+[739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+
+[946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
 
 ### **Two Pointer** 
