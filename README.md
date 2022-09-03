@@ -22,7 +22,8 @@
 
 [769. Max Chunks To Make Sorted (lee)](https://leetcode.com/problems/max-chunks-to-make-sorted/)
 
-## **Two Pointer** 
+## **Two Pointer** : [Easy](https://leetcode.com/problemset/all/?difficulty=EASY&page=1&topicSlugs=two-pointers&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D) - [Medium](https://leetcode.com/problemset/all/?difficulty=MEDIUM&page=1&topicSlugs=two-pointers&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D)
+
 #### ++L-R++
 
 [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
