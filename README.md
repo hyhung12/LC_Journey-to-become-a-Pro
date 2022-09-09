@@ -1,4 +1,9 @@
 # LC_Journey-to-become-a-Pro
+
+### **HashTable**: [Easy](https://leetcode.com/problemset/all/?difficulty=EASY&page=1&topicSlugs=hash-table&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D) - [Medium](https://leetcode.com/problemset/all/?difficulty=MEDIUM&page=1&topicSlugs=hash-table&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D) - [Hard](https://leetcode.com/problemset/all/?difficulty=HARD&page=1&topicSlugs=hash-table&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D)
+
+### **DFS**: [Easy]() - [Medium](https://leetcode.com/problemset/all/?difficulty=MEDIUM&page=1&topicSlugs=depth-first-search&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D) - [Hard](https://leetcode.com/problemset/all/?difficulty=HARD&page=1&topicSlugs=depth-first-search&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D)
+
 ### **BFS** : [Easy](https://leetcode.com/problemset/all/?difficulty=EASY&page=1&topicSlugs=breadth-first-search&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D) - [Medium](https://leetcode.com/problemset/all/?difficulty=MEDIUM&page=1&topicSlugs=breadth-first-search&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D) - [Hard](https://leetcode.com/problemset/all/?difficulty=HARD&page=1&topicSlugs=breadth-first-search&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D)
 
 ### **Stack** :  [Easy](https://leetcode.com/problemset/all/?topicSlugs=stack&page=1&difficulty=EASY&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D) - [Medium](https://leetcode.com/problemset/all/?topicSlugs=stack&page=1&difficulty=MEDIUM&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D)
@@ -67,10 +72,10 @@
 
 [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
 
-### **HashTable**: [Easy](https://leetcode.com/problemset/all/?difficulty=EASY&page=1&topicSlugs=hash-table&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D) - [Medium](https://leetcode.com/problemset/all/?difficulty=MEDIUM&page=1&topicSlugs=hash-table&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D) - [Hard](https://leetcode.com/problemset/all/?difficulty=HARD&page=1&topicSlugs=hash-table&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D)
+
 
 ### **Greedy**: [Easy](https://leetcode.com/problemset/all/?difficulty=EASY&page=1&topicSlugs=greedy&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D) - [Medium](https://leetcode.com/problemset/all/?difficulty=MEDIUM&page=1&topicSlugs=greedy&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D) - [Hard](https://leetcode.com/problemset/all/?difficulty=HARD&page=1&topicSlugs=greedy&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D)
 
 ### **DP**: [Easy](https://leetcode.com/problemset/all/?difficulty=EASY&page=1&topicSlugs=dynamic-programming&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D) - [Medium](https://leetcode.com/problemset/all/?difficulty=MEDIUM&page=1&topicSlugs=dynamic-programming&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D) - [Hard](https://leetcode.com/problemset/all/?difficulty=HARD&page=1&topicSlugs=dynamic-programming&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D)
 
-### **DFS**: [Easy]() - [Medium](https://leetcode.com/problemset/all/?difficulty=MEDIUM&page=1&topicSlugs=depth-first-search&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D) - [Hard](https://leetcode.com/problemset/all/?difficulty=HARD&page=1&topicSlugs=depth-first-search&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D)
+
