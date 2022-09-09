@@ -1,7 +1,7 @@
 # LC_Journey-to-become-a-Pro
 ### **BFS** : [Easy](https://leetcode.com/problemset/all/?difficulty=EASY&page=1&topicSlugs=breadth-first-search&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D) - [Medium](https://leetcode.com/problemset/all/?difficulty=MEDIUM&page=1&topicSlugs=breadth-first-search&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D) - [Hard](https://leetcode.com/problemset/all/?difficulty=HARD&page=1&topicSlugs=breadth-first-search&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D)
 
-## **Stack** :  [Easy](https://leetcode.com/problemset/all/?topicSlugs=stack&page=1&difficulty=EASY&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D) - [Medium](https://leetcode.com/problemset/all/?topicSlugs=stack&page=1&difficulty=MEDIUM&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D)
+### **Stack** :  [Easy](https://leetcode.com/problemset/all/?topicSlugs=stack&page=1&difficulty=EASY&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D) - [Medium](https://leetcode.com/problemset/all/?topicSlugs=stack&page=1&difficulty=MEDIUM&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D)
 
 [1762. Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/)
 
@@ -23,7 +23,7 @@
 
 [769. Max Chunks To Make Sorted (lee)](https://leetcode.com/problems/max-chunks-to-make-sorted/)
 
-## **Two Pointer** : [Easy](https://leetcode.com/problemset/all/?difficulty=EASY&page=1&topicSlugs=two-pointers&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D) - [Medium](https://leetcode.com/problemset/all/?difficulty=MEDIUM&page=1&topicSlugs=two-pointers&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D)
+### **Two Pointer** : [Easy](https://leetcode.com/problemset/all/?difficulty=EASY&page=1&topicSlugs=two-pointers&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D) - [Medium](https://leetcode.com/problemset/all/?difficulty=MEDIUM&page=1&topicSlugs=two-pointers&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D)
 
 #### ++L-R++
 
